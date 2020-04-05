@@ -381,8 +381,9 @@ h6, .h6 {
 }
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 0.5rem;
   font-weight: 300;
+  color:white;
 }
 
 .display-1 {
@@ -7895,6 +7896,7 @@ button.bg-dark:focus {
 .mt-5,
 .my-5 {
   margin-top: 3rem !important;
+  color:white;
 }
 
 .mr-5,
